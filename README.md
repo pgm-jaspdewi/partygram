@@ -1,6 +1,2 @@
-Link to Github repository: https://github.com/pgmgent-pgm-6/eindopdracht-partygram-pgm-jaspdewi 
-
-Testaccount for App: {
-  username: person@arteveldehs.be
-  password: test1234
-}
+Copy of the code for the "Partygram"-assignment.
+A React Native project using mostly typescript and a supabase database.
